@@ -1,212 +1,243 @@
-You are an elite Developer Relations (DevRel) Engineer, Technical Writer, and UI/UX Designer specializing in crafting world-class, high-converting GitHub profile READMEs that instantly captivate engineering managers, recruiters, and open-source maintainers.
+<div align="center">
 
-## 🎨 DESIGN VISION & AESTHETIC REQUIREMENTS
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&customColorList=5,2,1&section=header&text=VISHAL%20SUKHWAL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Building%20Intelligent%20Systems&descSize=20&descAlignY=65)
 
-Your output must embody these core principles:
-- **Modern, Futuristic Aesthetic:** Dark-themed (tokyonight/dracula/synthwave), sleek, professional
-- **Visual Hierarchy:** Strategic emojis, badges, dividers, and whitespace that guides the eye naturally
-- **High-Converting Copy:** Action-oriented language that speaks to opportunities, impact, and collaboration
-- **Mobile & Desktop Optimized:** Renders beautifully on 360px width and 4K screens
-- **Brand Consistency:** Unified color palette and badge styling throughout (use tokyonight theme for GitHub Stats)
-- **Accessibility First:** Alt text for all images, semantic markdown, high contrast ratios
+</div>
 
 ---
 
-## 👤 PROFILE CONTEXT TO EMBED PRECISELY
+<div align="center">
 
-**Personal Identity:**
-- Full Name: Vishal Sukhwal
-- GitHub Username: vishalsukhwall
-- Professional Title: AI/ML Engineer | Software Developer | Full-Stack Developer
-- Education: MCA Student at Indus University, Ahmedabad
-- Professional Background: Former Research Analyst at Arcgate
-- Career Direction: Agentic AI workflows, scalable backend engineering, modern web applications
-- Open To: AI/ML internships, Full-Stack internships, open-source collaboration
+### 🌐 Connect With Me
 
-**Social & Contact URLs:**
-- LinkedIn: https://linkedin.com/in/vishal-sukhwal-89a574378
-- Instagram: VISHALSUKHWALL (profile: https://instagram.com/VISHALSUKHWALL)
-- Email: vishalsukhwal33@gmail.com
-- GitHub: https://github.com/vishalsukhwall
-- Portfolio: [Use a placeholder or generic portfolio link format]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sukhwal-89a574378)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsukhwal33@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/VISHALSUKHWALL)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalsukhwall)
 
-**Complete Technical Stack:**
+![Profile Views](https://komarev.com/ghpvc/?username=vishalsukhwall&color=blueviolet&style=flat-square&label=Profile+Views)
 
-Languages & Core: C++, C, Java, Python, TypeScript, JavaScript, HTML5, CSS3
-
-AI/ML & Data: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Plotly, Seaborn, Power BI, LangChain, Hugging Face, Transformers, Generative AI, LLMs, RAG Systems
-
-Databases: MongoDB, PostgreSQL, MySQL, SQLite, Firebase, Redis
-
-DevOps/Cloud/Tools: GitHub, Git, Docker, Vercel, Netlify, Render, Jupyter, Google Colab, VS Code
+</div>
 
 ---
 
-## 📐 MANDATORY SECTIONS & STRUCTURE (IN ORDER)
+## 👋 About Me
 
-### 1. DYNAMIC HEADER BANNER
-- Use capsule-render.vercel.app with waving/gradient type
-- Colors: Use purple→blue→pink gradient (#667eea, #764ba2, or #f093fb)
-- Height: 280-300px
-- Text: "VISHAL SUKHWAL" (bold, 70pt)
-- Subtitle: "🚀 AI/ML Engineer | Full-Stack Developer | Building Intelligent Systems"
-- Animation: fadeIn or waving
-- Include profile view counter at bottom (komarev.com badge)
+I'm a passionate **AI/ML Engineer** and **Full-Stack Developer** building intelligent systems that scale. My mission: architecting robust applications, optimizing machine learning pipelines, and creating seamless experiences through clean, production-grade code.
 
-### 2. SOCIAL CONNECTION PILLS (CENTER-ALIGNED)
-- Create 5 horizontal badge buttons: LinkedIn, Gmail, Instagram, GitHub, Portfolio
-- Style: `for-the-badge` with official brand colors
-- LinkedIn: #0A66C2, Gmail: #EA4335, Instagram: #E4405F, GitHub: #171515
-- Make all clickable with markdown links
-- Add horizontal divider (---) below
+### 🔭 Current Focus
+- 🤖 **Building Agentic AI Systems** - Exploring multi-agent architectures and autonomous workflows
+- 🏗️ **Scalable Backend Engineering** - Microservices, distributed systems, and cloud-native development
+- ⚡ **ML Pipeline Optimization** - TensorFlow, PyTorch, and production ML systems
+- 🌐 **Modern Web Applications** - Full-stack development with cutting-edge frameworks
+- 📊 **Data Engineering & Analytics** - Large-scale data processing and insights
 
-### 3. ABOUT ME & INTRODUCTION
-Engaging hook paragraph (2-3 sentences):
-"I'm a passionate AI/ML Engineer and Full-Stack Developer building intelligent systems that scale. 
-My mission: architecting robust applications, optimizing ML pipelines, and creating seamless experiences 
-through clean, production-grade code."
+### 🎓 Background
+- **Education:** MCA Student at Indus University, Ahmedabad
+- **Experience:** Former Research Analyst at Arcgate
+- **Philosophy:** Clean code, scalable systems, solving real-world problems with AI
+- **Open To:** AI/ML internships, full-stack opportunities, open-source collaboration
 
-Then 6-8 focused bullet points using emojis:
-- 🔭 **Current Focus:** Building agentic AI systems, optimizing ML pipelines, scalable backend architecture
-- 🎓 **Education:** MCA Student at Indus University (Ahmedabad)
-- 💼 **Experience:** Former Research Analyst at Arcgate, exploring enterprise AI solutions
-- 💡 **Philosophy:** Clean, maintainable, scalable code. Problems that matter. Relentless learning.
-- 🤝 **Open To:** AI/ML internships, full-stack development opportunities, open-source contributions
-- 🌱 **Always Learning:** Emerging architectures in ML, modern web frameworks, distributed systems
-
-### 4. CONTRIBUTION SNAKE & GITHUB ANALYTICS
-- Include GitHub Snake animation (using your username)
-- Create a side-by-side or stacked grid (table format) with:
-  - **Left/Top:** GitHub Stats Card (use theme=tokyonight)
-  - **Right/Bottom:** GitHub Streak Card (use theme=tokyonight)
-  - **Bottom:** Top Languages Card (use theme=tokyonight, layout=compact)
-- Use `hide_border=true` and `hide_title=false` for all cards
-- Add descriptive captions like "📊 GitHub Analytics" above the grid
-
-### 5. TECHNICAL STACK (CATEGORIZED BADGES)
-Use centered alignment with clear section headers.
-
-**💻 Languages & Core**
-Badges: C++, C, Java, Python, TypeScript, JavaScript, HTML5, CSS3
-Style: flat-square, proper brand colors, 2 rows
-
-**🤖 AI/ML & Data Engineering** (YOUR SPECIALTY)
-Badges: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Plotly, Seaborn, Power BI, LangChain, Hugging Face, Transformers
-Style: flat-square, highlight this as core expertise, 4 rows
-
-**🗄️ Databases & Storage**
-Badges: MongoDB, PostgreSQL, MySQL, SQLite, Firebase, Redis
-Style: flat-square, 2 rows
-
-**🚀 DevOps, Cloud & Tools**
-Badges: GitHub, Git, Docker, Vercel, Netlify, Render, Jupyter, Google Colab, VS Code
-Style: flat-square, 2-3 rows
-
-Badge Guidelines:
-- Use official brand colors (hex codes match official guidelines)
-- Include official logos (e.g., logo=python, logoColor=white)
-- All use `style=flat-square` for consistency
-- Center-align each category using `<div align="center">`
-- Separate categories with thick dividers and emoji headers
-
-### 6. FEATURED PROJECTS (3-5 PROJECTS)
-Format for each project:
-
-Include diverse projects: At least 1 ML/AI project, 1 full-stack web app, 1 data science project
-
-### 7. CURRENTLY LEARNING & EXPLORING
-📚 Learning section with 6-8 items (1 line each):
-- Agentic AI Workflows & Multi-Agent Systems
-- Advanced LLM Fine-Tuning & Prompt Engineering
-- Scalable Microservices Architecture (Kubernetes, Docker)
-- Modern Web Frameworks (Next.js, FastAPI, Django)
-- Cloud-Native Development & Serverless Computing
-- System Design Patterns & Distributed Systems
-- Generative AI Applications & Production LLMs
-- Full-Stack ML Operations & MLOps Best Practices
-
-### 8. GITHUB CONTRIBUTION INSIGHTS
-Brief section with stats about your GitHub:
-- Total repositories created
-- Total GitHub contributions
-- Most used programming language (from your actual GitHub)
-- Open-source contributions highlight
-
-### 9. COLLABORATION & CTA FOOTER
-Engaging final section:
-"💼 **Let's Build Something Remarkable Together!**
-
-I'm actively exploring collaborations on:
-**AI/ML Projects** • **Full-Stack Applications** • **Open Source** • **Technical Mentorship**
-
-[LinkedIn](url) | [Gmail](url) | [GitHub](url) | [Portfolio](url)
-
----
-*Last Updated: August 2026* | Passionate about solving real-world problems with AI and clean code. Let's connect! 🚀"
+### 🌱 Always Learning
+Exploring advanced architectures in machine learning, modern web frameworks, distributed systems, and cloud-native technologies.
 
 ---
 
-## 🎨 STYLING & FORMATTING RULES
+## 📊 GitHub Analytics
 
-**Typography:**
-- Use # only for 1-2 main section headers max
-- Use ## for primary sections (About Me, Tech Stack, Projects, etc.)
-- Use ### for category subsections (Languages, AI/ML, Databases, etc.)
-- Limit paragraph text to 2-3 sentences per block (white space is your friend)
+<div align="center">
 
-**Colors & Theming:**
-- Primary: #667eea (electric purple) or #7c3aed (deep purple)
-- Secondary: #06b6d4 (cyan) for highlights
-- Accent: #ec4899 (pink) for CTAs
-- All GitHub stats cards: theme=tokyonight
-- Ensure 8:1+ contrast ratio for text
+<table>
+<tr>
+<td width="50%">
 
-**Layout & Alignment:**
-- Center-align: Headers, banners, social links, tech stacks, analytics, CTAs
-- Left-align: Bullets, paragraphs, project descriptions
-- Use `<div align="center">` for precise control
-- Use `<table>` for 2-column analytics layout
-- Maintain 20-30px padding/margin between sections
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=400)
 
-**Emoji Strategy:**
-- Max 1-2 per section header
-- Use consistently (🚀 for building, 🤖 for AI/ML, 📚 for learning, 💡 for ideas)
-- Avoid excessive emoji (keep it professional)
-- Ensure emojis render on all platforms (test on mobile)
+</td>
+<td width="50%">
 
-**Image Optimization:**
-- All URLs use official CDNs: shields.io, vercel.app, demolab.com, komarev.com, github.com
-- Keep total external images <15
-- Add alt text to all image/badge references
-- No broken links—verify before output
+![GitHub Streak](https://streak-stats.demolab.com/?user=vishalsukhwall&theme=tokyonight&hide_border=true&background=0D1117)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500)
+
+</div>
+
+</div>
 
 ---
 
-## 📋 OUTPUT SPECIFICATIONS
+## 🛠️ Technical Arsenal
 
-**Format:**
-- Single markdown code block (wrapped in triple backticks with 'markdown' tag)
-- No preamble, no introduction, no commentary
-- Directly copyable into GitHub README.md
-- Production-ready with zero placeholders
+### 💻 Languages & Core
 
-**Length:** 700-1000 lines (comprehensive but not overwhelming)
+<div align="center">
 
-**Quality Checklist:**
-✓ All URLs functional and brand-correct
-✓ All personal details embedded exactly as provided
-✓ Tech stack comprehensive and logically organized
-✓ No typos, proper grammar, professional tone
-✓ Mobile-responsive (test 360px viewport mentally)
-✓ Visually balanced with strategic use of whitespace
-✓ Emojis enhance, don't distract
-✓ Color palette cohesive and on-brand
-✓ Ready to deploy immediately upon copy-paste
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
-## 🔥 EXECUTE NOW
+### 🤖 AI/ML & Data Engineering
 
-Generate the complete, production-ready GitHub README.md for Vishal Sukhwal. Make it bold, make it beautiful, make it unforgettable.
+<div align="center">
 
-Output the markdown directly. No explanations. No hesitation. This is elite-level work. Let's go! 🚀
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</div>
+
+---
+
+### 🗄️ Databases & Storage
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 DevOps, Cloud & Tools
+
+<div align="center">
+
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🤖 AI/ML Projects
+
+**🧠 Intelligent Chatbot with LLM Integration**  
+Advanced conversational AI using LangChain and OpenAI/HuggingFace models with context-aware responses and memory management.  
+**Tech:** Python, LangChain, Flask, React, PostgreSQL | [Explore](https://github.com/vishalsukhwall)
+
+**📊 Time Series Forecasting Model**  
+Deep learning model for stock market prediction using LSTM networks and technical analysis with real-time data pipeline.  
+**Tech:** Python, TensorFlow, NumPy, Pandas, Matplotlib | [Explore](https://github.com/vishalsukhwall)
+
+### 🌐 Full-Stack Projects
+
+**🚀 Full-Stack Web Application**  
+Modern web application with React frontend, Node.js backend, and MongoDB database featuring real-time updates.  
+**Tech:** React, TypeScript, Node.js, Express, MongoDB, Docker | [Repository](https://github.com/vishalsukhwall)
+
+**📈 Data Analytics Dashboard**  
+Interactive dashboard for business intelligence with real-time data visualization and advanced filtering.  
+**Tech:** React, Python, FastAPI, PostgreSQL, Plotly | [Explore](https://github.com/vishalsukhwall)
+
+### 💾 Data Science Projects
+
+**🔍 NLP Text Classification**  
+Multi-class text classification using transformers and advanced NLP techniques for sentiment analysis.  
+**Tech:** Python, Transformers, scikit-learn, FastAPI | [Repository](https://github.com/vishalsukhwall)
+
+---
+
+## 📚 Currently Learning & Exploring
+
+- 🎓 **Agentic AI Workflows** - Multi-agent systems and autonomous AI workflows
+- 🧠 **Advanced LLM Fine-Tuning** - Custom model fine-tuning and prompt engineering  
+- 🏗️ **Microservices Architecture** - Kubernetes, Docker, and container orchestration
+- ⚡ **Next.js & Modern Frameworks** - Full-stack development with Next.js and FastAPI
+- ☁️ **Cloud-Native Development** - Serverless computing and cloud infrastructure
+- 🔄 **System Design & Distributed Systems** - Scalable architecture patterns
+- 🤖 **MLOps & Production ML** - Model deployment and monitoring best practices
+
+---
+
+## 💼 GitHub Insights
+
+<div align="center">
+
+- 📦 **Active Repositories** - Building and maintaining projects across AI/ML and full-stack
+- ⭐ **Open Source** - Contributing to community-driven ML and web development projects
+- 💻 **Primary Languages** - Python, JavaScript/TypeScript, C++
+- 🎯 **Focus Areas** - Machine Learning, Full-Stack Development, Data Engineering
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+**Intelligent Systems** that leverage AI and machine learning to solve real-world problems efficiently.
+
+**Scalable Applications** designed with production-grade standards, clean architecture, and maintainable code.
+
+**Data-Driven Solutions** using advanced analytics, visualization, and actionable insights.
+
+**Open Source Impact** contributing quality code to the developer community.
+
+---
+
+<div align="center">
+
+## 💼 Let's Collaborate!
+
+I'm actively exploring opportunities in:
+
+**AI/ML Projects** • **Full-Stack Development** • **Data Science** • **Open Source** • **Technical Mentorship**
+
+---
+
+### 🔗 Quick Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sukhwal-89a574378)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsukhwal33@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalsukhwall)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/VISHALSUKHWALL)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=blueviolet&style=flat-square" alt="Profile Views">
+
+**Last Updated:** August 2026
+
+*"Build systems that scale. Write code that matters. Learn relentlessly."* 🚀
+
+</div>
