@@ -128,7 +128,7 @@ Exploring advanced architectures in machine learning, modern web frameworks, dis
 
 ---
 
-### 🚀 DevOps, Cloud & Tools
+### 🚀 Tools
 
 <div align="center">
 
