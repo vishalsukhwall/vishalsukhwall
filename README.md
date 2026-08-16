@@ -1,87 +1,97 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&customColorList=5,2,1&section=header&text=VISHAL%20SUKHWAL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Building%20Intelligent%20Systems&descSize=20&descAlignY=65)
+![](https://capsule-render.vercel.app/api?type=waving&height=320&color=0:667eea,100:764ba2&customColorList=5,2,1&section=header&text=VISHAL%20SUKHWAL&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🚀%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Autonomous%20Systems%20Builder&descSize=22&descAlignY=70)
+
+<!-- Profile Badge Animation -->
+<p>
+  <a href="https://github.com/vishalsukhwall">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-0066FF?style=flat-square&logo=github&logoColor=white" alt="Status Badge">
+  </a>
+  <a href="https://linkedin.com/in/vishal-sukhwal-89a574378">
+    <img src="https://img.shields.io/badge/OPEN_TO-AI%2FML_OPPORTUNITIES-00D084?style=flat-square&logo=briefcase&logoColor=white" alt="Opportunities">
+  </a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sukhwal-89a574378)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsukhwal33@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/VISHALSUKHWALL)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalsukhwall)
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishalsukhwall&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a passionate **AI/ML Engineer** and **Full-Stack Developer** building intelligent systems that scale. My mission: architecting robust applications, optimizing machine learning pipelines, and creating seamless experiences through clean, production-grade code.
-
-### 🔭 Current Focus
-- 🤖 **Building Agentic AI Systems** - Exploring multi-agent architectures and autonomous workflows
-- 🏗️ **Scalable Backend Engineering** - Microservices, distributed systems, and cloud-native development
-- ⚡ **ML Pipeline Optimization** - TensorFlow, PyTorch, and production ML systems
-- 🌐 **Modern Web Applications** - Full-stack development with cutting-edge frameworks
-- 📊 **Data Engineering & Analytics** - Large-scale data processing and insights
-
-### 🎓 Background
-- **Education:** MCA Student at Indus University, Ahmedabad
-- **Experience:** Former Research Analyst at Arcgate
-- **Philosophy:** Clean code, scalable systems, solving real-world problems with AI
-- **Open To:** AI/ML internships, full-stack opportunities, open-source collaboration
-
-### 🌱 Always Learning
-Exploring advanced architectures in machine learning, modern web frameworks, distributed systems, and cloud-native technologies.
-
----
-
-## 📊 GitHub Analytics
+## 📡 Connect & Collaborate
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=400)
-
+<td align="center">
+  <a href="https://linkedin.com/in/vishal-sukhwal-89a574378">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </td>
-<td width="50%">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=vishalsukhwall&theme=tokyonight&hide_border=true&background=0D1117)
-
+<td align="center">
+  <a href="mailto:vishalsukhwal33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</td>
+<td align="center">
+  <a href="https://instagram.com/VISHALSUKHWALL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/vishalsukhwall">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500)
-
-</div>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=0066FF&style=flat-square&label=Profile+Views&logoColor=white">
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🎯 About Me
 
-### 💻 Languages & Core
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Who I Am
+
+I'm an **AI/ML Engineer** and **Full-Stack Architect** designing production-grade intelligent systems. My expertise spans **machine learning pipelines**, **distributed backend systems**, and **scalable web architectures** — all built with obsessive attention to code quality and real-world impact.
+
+**Mission:** Transform complex problems into elegant, intelligent solutions.
+
+</td>
+<td width="50%">
+
+### 📍 Current Focus
+
+- 🤖 **Agentic AI Systems** — Multi-agent architectures & autonomous workflows
+- 🏗️ **Distributed Backends** — Microservices, cloud-native, scalable systems
+- ⚡ **ML Pipeline Engineering** — TensorFlow, PyTorch, production ML ops
+- 🌐 **Full-Stack Modern Web** — Next.js, TypeScript, real-time applications
+- 📊 **Data Engineering** — Large-scale ETL, analytics platforms, big data
+
+</td>
+</tr>
+</table>
+
+### 📚 Background & Journey
+
+| Category | Details |
+|----------|---------|
+| **Education** | MCA Student, Indus University, Ahmedabad |
+| **Experience** | Research Analyst, Arcgate |
+| **Philosophy** | Clean code → Scalable systems → Real-world impact |
+| **Mindset** | Always learning, building, shipping |
+
+---
+
+## 🛠️ Technical Mastery
+
+### 💻 Languages & Fundamentals
 
 <div align="center">
 
@@ -98,29 +108,33 @@ Exploring advanced architectures in machine learning, modern web frameworks, dis
 
 ---
 
-### 🤖 AI/ML & Data Engineering
+### 🤖 AI/ML & Advanced Computing
 
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![scikit--learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </div>
 
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat-square&logo=python&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</div>
+
 ---
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases & Data Infrastructure
 
 <div align="center">
 
@@ -135,7 +149,7 @@ Exploring advanced architectures in machine learning, modern web frameworks, dis
 
 ---
 
-### 🚀 Tools
+### 🚀 DevOps, Tools & Infrastructure
 
 <div align="center">
 
@@ -146,105 +160,224 @@ Exploring advanced architectures in machine learning, modern web frameworks, dis
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
+</div>
+
+<div align="center">
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🏆 Featured Projects
 
-### 🤖 AI/ML Projects
+### 🤖 AI/ML & Intelligent Systems
 
-**🧠 Intelligent Chatbot with LLM Integration**  
-Advanced conversational AI using LangChain and OpenAI/HuggingFace models with context-aware responses and memory management.  
-**Tech:** Python, LangChain, Flask, React, PostgreSQL | [Explore](https://github.com/vishalsukhwall)
+<table>
+<tr>
+<td width="50%">
 
-**📊 Time Series Forecasting Model**  
-Deep learning model for stock market prediction using LSTM networks and technical analysis with real-time data pipeline.  
-**Tech:** Python, TensorFlow, NumPy, Pandas, Matplotlib | [Explore](https://github.com/vishalsukhwall)
+#### 🧠 Intelligent Chatbot with LLM Integration
+Advanced conversational AI leveraging **LangChain** and cutting-edge LLM models (OpenAI/HuggingFace) with context-aware memory management and production-grade reliability.
 
-### 🌐 Full-Stack Projects
+**Stack:** Python, LangChain, Flask, React, PostgreSQL  
+**Features:** Multi-turn context, memory persistence, streaming responses
 
-**🚀 Full-Stack Web Application**  
-Modern web application with React frontend, Node.js backend, and MongoDB database featuring real-time updates.  
-**Tech:** React, TypeScript, Node.js, Express, MongoDB, Docker | [Repository](https://github.com/vishalsukhwall)
+[🔗 Explore Project](https://github.com/vishalsukhwall)
 
-**📈 Data Analytics Dashboard**  
-Interactive dashboard for business intelligence with real-time data visualization and advanced filtering.  
-**Tech:** React, Python, FastAPI, PostgreSQL, Plotly | [Explore](https://github.com/vishalsukhwall)
+</td>
+<td width="50%">
 
-### 💾 Data Science Projects
+#### 📊 Time Series Forecasting with Deep Learning
+LSTM-powered deep learning system for stock market prediction, integrating real-time data pipelines with technical analysis for production financial modeling.
 
-**🔍 NLP Text Classification**  
-Multi-class text classification using transformers and advanced NLP techniques for sentiment analysis.  
-**Tech:** Python, Transformers, scikit-learn, FastAPI | [Repository](https://github.com/vishalsukhwall)
+**Stack:** Python, TensorFlow, NumPy, Pandas, Matplotlib  
+**Features:** Real-time predictions, technical indicators, backtesting
 
----
+[🔗 Explore Project](https://github.com/vishalsukhwall)
 
-## 📚 Currently Learning & Exploring
-
-- 🎓 **Agentic AI Workflows** - Multi-agent systems and autonomous AI workflows
-- 🧠 **Advanced LLM Fine-Tuning** - Custom model fine-tuning and prompt engineering  
-- 🏗️ **Microservices Architecture** - Kubernetes, Docker, and container orchestration
-- ⚡ **Next.js & Modern Frameworks** - Full-stack development with Next.js and FastAPI
-- ☁️ **Cloud-Native Development** - Serverless computing and cloud infrastructure
-- 🔄 **System Design & Distributed Systems** - Scalable architecture patterns
-- 🤖 **MLOps & Production ML** - Model deployment and monitoring best practices
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 GitHub Insights
+### 🌐 Full-Stack Web Applications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 Production-Grade Full-Stack Platform
+Modern web application architecture featuring **React** frontend with TypeScript, **Node.js/Express** backend, and **MongoDB** database with containerized deployment.
+
+**Stack:** React, TypeScript, Node.js, Express, MongoDB, Docker  
+**Features:** Real-time updates, microservices-ready, scalable architecture
+
+[🔗 Repository](https://github.com/vishalsukhwall)
+
+</td>
+<td width="50%">
+
+#### 📈 Interactive Analytics Dashboard
+Enterprise-level business intelligence platform with real-time data visualization, advanced filtering, and actionable insights powered by **React** and **Plotly**.
+
+**Stack:** React, Python, FastAPI, PostgreSQL, Plotly  
+**Features:** Dynamic charting, real-time dashboards, data export
+
+[🔗 Explore Project](https://github.com/vishalsukhwall)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💾 Data Science & NLP
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🔍 Multi-Class NLP Text Classification with Transformers
+State-of-the-art text classification system using **Transformer models** and advanced NLP techniques for sentiment analysis, intent recognition, and semantic understanding.
+
+**Stack:** Python, Transformers, scikit-learn, FastAPI  
+**Features:** Multi-label classification, model fine-tuning, API deployment
+
+[🔗 Repository](https://github.com/vishalsukhwall)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Intelligence
 
 <div align="center">
 
-- 📦 **Active Repositories** - Building and maintaining projects across AI/ML and full-stack
-- ⭐ **Open Source** - Contributing to community-driven ML and web development projects
-- 💻 **Primary Languages** - Python, JavaScript/TypeScript, C++
-- 🎯 **Focus Areas** - Machine Learning, Full-Stack Development, Data Engineering
+<table>
+<tr>
+<td width="50%">
+
+### 📈 Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=400)
+
+</td>
+<td width="50%">
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vishalsukhwall&theme=tokyonight&hide_border=true&background=0D1117)
+
+</td>
+</tr>
+</table>
+
+### 🌟 Most Used Technologies
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500)
+
+<!-- Contribution Heatmap -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution activity graph" src="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 🚀 What I'm Building
+## 🎓 Currently Learning & Pushing Boundaries
 
-**Intelligent Systems** that leverage AI and machine learning to solve real-world problems efficiently.
+<table>
+<tr>
+<td width="33%">
 
-**Scalable Applications** designed with production-grade standards, clean architecture, and maintainable code.
+### 🎯 Advanced AI
+- Agentic AI workflows
+- Multi-agent systems
+- LLM fine-tuning
+- Prompt engineering
 
-**Data-Driven Solutions** using advanced analytics, visualization, and actionable insights.
+</td>
+<td width="33%">
 
-**Open Source Impact** contributing quality code to the developer community.
+### 🏗️ System Design
+- Microservices architecture
+- Kubernetes orchestration
+- Distributed systems
+- Scalability patterns
+
+</td>
+<td width="33%">
+
+### ☁️ Modern Stack
+- Next.js & modern web
+- FastAPI frameworks
+- Serverless computing
+- Cloud infrastructure
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 💼 Let's Build Something Extraordinary
+
+I'm actively seeking collaborations and opportunities in:
 
 <div align="center">
 
-## 💼 Let's Collaborate!
-
-I'm actively exploring opportunities in:
-
-**AI/ML Projects** • **Full-Stack Development** • **Data Science** • **Open Source** • **Technical Mentorship**
+**🤖 AI/ML Projects** • **Full-Stack Development** • **Data Engineering** • **Open Source** • **Research & Innovation** • **Technical Mentorship**
 
 ---
 
-### 🔗 Quick Links
+### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sukhwal-89a574378)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalsukhwal33@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalsukhwall)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/VISHALSUKHWALL)
+<table>
+<tr>
+<td align="center">
+  <a href="https://linkedin.com/in/vishal-sukhwal-89a574378">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:vishalsukhwal33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/vishalsukhwall">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</td>
+<td align="center">
+  <a href="https://instagram.com/VISHALSUKHWALL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=blueviolet&style=flat-square" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=0066FF&style=flat-square" alt="Profile Views">
 
-**Last Updated:** August 2026
+### 🚀 Philosophy
 
-*"Build systems that scale. Write code that matters. Learn relentlessly."* 🚀
+> **Build systems that scale.** Write code that matters. **Learn relentlessly.** Create impact.
+
+---
+
+**Last Updated:** August 2026 | Actively Building | Always Shipping | Never Stopping
 
 </div>
