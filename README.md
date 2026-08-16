@@ -1,92 +1,111 @@
-<div align="center">
-
-# Hi there, I'm Vishal Sukhwal 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Building+Autonomous+Agents;MCA+Student+@+Indus+University" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://linkedin.com/in/vishal-sukhwal-89a574378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vishalsukhwal33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/vishalsukhwall"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/VISHALSUKHWALL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&section=header&text=VISHAL%20SUKHWAL&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%26%20Full-Stack%20Architect&descSize=18&descAlignY=60)
 
 ---
 
-### ⚡ About Me
+## Hey, I'm Vishal 👋
 
-- 🔭 **Working on:** Agentic AI workflows, autonomous systems, and high-performance backend pipelines.
-- 🎓 **Studying:** Master of Computer Applications (MCA) at Indus University, Ahmedabad.
-- 💡 **Philosophy:** Writing clean, scalable code and turning complex ML models into real-world solutions.
-- 🚀 **Open To:** AI/ML opportunities, full-stack roles, and open-source collaborations.
+I build intelligent systems and scalable architectures. Full-stack engineer obsessed with clean code, system design, and creating real-world impact through AI/ML. Currently exploring multi-agent systems and distributed backend architectures.
 
----
-
-### 🛠️ Tech Stack & Arsenal
-
-**Languages & Core:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
-
-**AI/ML & Data Engineering:**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
-
-**Backend, Databases & Cloud:**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
+**Currently:** MCA @ Indus University, Ahmedabad | **Previously:** Research Analyst @ Arcgate
 
 ---
 
-### 💻 Featured Projects
+## 🔗 Connect
 
-- **🧠 Intelligent LLM Chatbot System** — Advanced conversational context engine powered by LangChain, vector embeddings, and modular memory layers.
-- **📈 Real-Time Time Series Forecaster** — Deep learning pipeline using LSTM architecture for predictive financial data trends.
-- **⚡ Full-Stack Scalable Web App** — High-concurrency system built with modern TypeScript frameworks and optimized database queries.
-
----
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=vishalsukhwall&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sukhwal-89a574378)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vishalsukhwal33@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/vishalsukhwall)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/VISHALSUKHWALL)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=667EEA&style=flat-square&label=Profile+Views" />
-</div>
+## 💻 Tech Stack
+
+**Languages**  
+Python • TypeScript • JavaScript • C++ • Java • C • HTML • CSS
+
+**AI/ML**  
+PyTorch • TensorFlow • LangChain • Transformers • HuggingFace • scikit-learn
+
+**Data & Viz**  
+Pandas • NumPy • Plotly • Matplotlib • Seaborn • Power BI
+
+**Databases**  
+PostgreSQL • MongoDB • Redis • MySQL • Firebase • SQLite
+
+**DevOps & Cloud**  
+Docker • Git • GitHub • Vercel • Netlify • Render
+
+**Tools**  
+VS Code • Jupyter • Google Colab • Linux
+
+---
+
+## 🚀 Featured Work
+
+### Intelligent Chatbot with LLM Integration
+Advanced conversational AI using LangChain and modern LLMs with context-aware memory and production-grade reliability.  
+**Stack:** Python • LangChain • Flask • React • PostgreSQL  
+**[→ Explore](https://github.com/vishalsukhwall)**
+
+### Time Series Forecasting with Deep Learning
+LSTM-powered stock market prediction with real-time data pipelines and technical analysis integration.  
+**Stack:** Python • TensorFlow • NumPy • Pandas • Matplotlib  
+**[→ Explore](https://github.com/vishalsukhwall)**
+
+### Production Full-Stack Platform
+Modern web architecture with React frontend, Node.js/Express backend, MongoDB, and Docker containerization.  
+**Stack:** React • TypeScript • Node.js • Express • MongoDB • Docker  
+**[→ Repository](https://github.com/vishalsukhwall)**
+
+### Interactive Analytics Dashboard
+Enterprise business intelligence with real-time visualizations and advanced data filtering.  
+**Stack:** React • Python • FastAPI • PostgreSQL • Plotly  
+**[→ Explore](https://github.com/vishalsukhwall)**
+
+### NLP Text Classification with Transformers
+Multi-class text classification using state-of-the-art Transformer models for sentiment and intent analysis.  
+**Stack:** Python • Transformers • scikit-learn • FastAPI  
+**[→ Repository](https://github.com/vishalsukhwall)**
+
+---
+
+## 📊 Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=vishalsukhwall&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+---
+
+## 🎯 Currently Learning
+
+**Advanced AI:** Agentic workflows • Multi-agent systems • LLM fine-tuning • Prompt engineering
+
+**System Design:** Microservices architecture • Kubernetes orchestration • Distributed systems • Scalability patterns
+
+**Modern Stack:** Next.js • FastAPI • Serverless computing • Cloud infrastructure
+
+---
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution activity" src="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
+## 💼 Open To
+
+**AI/ML Projects** • **Full-Stack Development** • **Data Engineering** • **Open Source Collaboration** • **Research Initiatives** • **Technical Mentorship**
+
+---
+
+**Philosophy:** Build systems that scale. Write code that matters. Learn relentlessly. Create impact.
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishalsukhwall&color=667eea&style=flat-square)
