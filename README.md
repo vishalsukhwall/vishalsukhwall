@@ -18,7 +18,7 @@
 ### ⚡ About Me
 
 - 🔭 **Working on:** Agentic AI workflows, autonomous systems, and high-performance backend pipelines.
-- 🎓 **Studying:** Master of Computer Applications (MCA) at Indus University, Ahmedabad.
+- 🎓 **Studying:** Master of Computer Applications (MCA) at GITS , Udaipur.
 - 💡 **Philosophy:** Writing clean, scalable code and turning complex ML models into real-world solutions.
 - 🚀 **Open To:** AI/ML opportunities, full-stack roles, and open-source collaborations.
 
