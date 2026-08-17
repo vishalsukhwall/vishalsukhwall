@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack
 
 **Languages & Core:**
 <p>
