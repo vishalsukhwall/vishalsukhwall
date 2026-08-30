@@ -23,60 +23,62 @@
 - 🔭 **Current Focus:** Agentic AI architectures, LLM orchestration, and high-concurrency full-stack platforms.
 - 🎓 **Education:** Master of Computer Applications (MCA) at GITS, Udaipur.
 - 💡 **Core Philosophy:** Writing scalable, clean code to turn complex machine learning workflows into robust production systems.
+- 🚀 **Open To:** AI/ML Engineering, Full-Stack roles, and open-source collaborations.
 
 ---
 
-### 🛠️ Technical Expertise & Stack
+### 🛠️ Tech Stack & Ecosystem
 
-<table>
-  <thead>
-    <tr align="left">
-      <th width="30%">Domain</th>
-      <th width="70%">Technologies, Frameworks & Core Concepts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🧠 AI, ML & LLM Engineering</b></td>
-      <td>
-        • <b>Frameworks:</b> PyTorch, TensorFlow, Scikit-Learn<br/>
-        • <b>Generative AI & LLMs:</b> LangChain, Hugging Face Transformers, Vector Embeddings<br/>
-        • <b>Data Processing:</b> Pandas, NumPy, Data Preprocessing & Modeling Pipelines
-      </td>
-    </tr>
-    <tr>
-      <td><b>💻 Full-Stack Development</b></td>
-      <td>
-        • <b>Frontend:</b> React, TypeScript, JavaScript (ES6+), HTML5, Tailwind CSS<br/>
-        • <b>Backend & APIs:</b> Node.js, Express, Flask, RESTful APIs, WebSockets<br/>
-        • <b>State & Routing:</b> React Router, Context API, Modular UI Architecture
-      </td>
-    </tr>
-    <tr>
-      <td><b>⚡ Core Languages & DSA</b></td>
-      <td>
-        • <b>Languages:</b> Python, Java, C++, TypeScript, JavaScript, SQL<br/>
-        • <b>Problem Solving:</b> Data Structures, Algorithm Design & Time/Space Complexity Optimization
-      </td>
-    </tr>
-    <tr>
-      <td><b>🗄️ Databases & DevOps</b></td>
-      <td>
-        • <b>Databases:</b> PostgreSQL, MongoDB, Redis, MySQL<br/>
-        • <b>Cloud & Tools:</b> Git, GitHub, Docker, Postman, Vercel
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="left"><b>Core Languages & Problem Solving</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+<p align="left"><b>AI, Machine Learning & LLMs</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<p align="left"><b>Frontend & UI Frameworks</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="left"><b>Backend, Databases & DevOps</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
 ### 💻 Featured Projects
 
-- **🌐 [Personal Portfolio](https://vishalsukhwal.vercel.app/)** — Modern interactive web platform built with React & TypeScript to demonstrate live projects and tech case studies.
-- **🧠 Intelligent Agentic LLM Engine** — Context-aware conversational architecture integrating LangChain, dynamic vector retrieval, and custom memory retention.
-- **📈 Real-Time Predictive ML Pipeline** — End-to-end deep learning framework utilizing sequence modeling for forecasting continuous time-series metrics.
-- **⚡ High-Concurrency Full-Stack Web App** — Production-ready application built on Node.js/Flask backend and modular TypeScript UI.
+- **🌐 [Personal Portfolio Website](https://vishalsukhwal.vercel.app/)** — Modern interactive developer platform showcasing projects, live demos, and technical background.
+- **🧠 Intelligent LLM Chatbot System** — Advanced conversational context engine powered by LangChain, vector embeddings, and modular memory layers.
+- **📈 Real-Time Time Series Forecaster** — Deep learning pipeline using LSTM architecture for predictive financial data trends.
+- **⚡ Full-Stack Scalable Web App** — High-concurrency system built with modern TypeScript frameworks and optimized database queries.
 
 ---
 
