@@ -9,7 +9,6 @@
   <a href="https://linkedin.com/in/vishal-sukhwal-89a574378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vishalsukhwal33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/vishalsukhwall"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/VISHALSUKHWALL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 </div>
@@ -18,7 +17,6 @@
 
 ### ⚡ About Me
 
-- 🌐 **Portfolio:** [Check out my live portfolio & projects](https://vishalsukhwal.vercel.app/)
 - 🔭 **Working on:** Agentic AI workflows, autonomous systems, and high-performance backend pipelines.
 - 🎓 **Studying:** Master of Computer Applications (MCA) at GITS, Udaipur.
 - 💡 **Philosophy:** Writing clean, scalable code and turning complex ML models into real-world solutions.
