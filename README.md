@@ -7,10 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Agentic+AI+Workflows;Scalable+Full-Stack+Apps;Turning+Models+into+Production;" />
 
   <p align="center">
-    <a href="https://vishalsukhwal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/vishal-sukhwal-89a574378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:vishalsukhwal33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/vishalsukhwall"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://vishalsukhwal.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/vishal-sukhwal-89a574378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:vishalsukhwal33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/vishalsukhwall"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
 </div>
@@ -19,66 +19,75 @@
 
 ### ⚡ About Me
 
-- 🌐 **Portfolio:** [vishalsukhwal.vercel.app](https://vishalsukhwal.vercel.app/)
-- 🔭 **Working on:** Agentic AI workflows, autonomous systems, and high-performance backend pipelines.
-- 🎓 **Studying:** Master of Computer Applications (MCA) at GITS, Udaipur.
-- 💡 **Philosophy:** Writing clean, scalable code and turning complex ML models into real-world solutions.
-- 🚀 **Open To:** AI/ML opportunities, full-stack roles, and open-source collaborations.
+- 🌐 **Live Portfolio:** [vishalsukhwal.vercel.app](https://vishalsukhwal.vercel.app/)
+- 🔭 **Current Focus:** Agentic AI architectures, LLM orchestration, and high-concurrency full-stack platforms.
+- 🎓 **Education:** Master of Computer Applications (MCA) at GITS, Udaipur.
+- 💡 **Core Philosophy:** Writing scalable, clean code to turn complex machine learning workflows into robust production systems.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Expertise & Stack
 
-**Languages & Core:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-**AI/ML & Data Engineering:**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
-
-**Backend, Databases :**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
+<table>
+  <thead>
+    <tr align="left">
+      <th width="30%">Domain</th>
+      <th width="70%">Technologies, Frameworks & Core Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🧠 AI, ML & LLM Engineering</b></td>
+      <td>
+        • <b>Frameworks:</b> PyTorch, TensorFlow, Scikit-Learn<br/>
+        • <b>Generative AI & LLMs:</b> LangChain, Hugging Face Transformers, Vector Embeddings<br/>
+        • <b>Data Processing:</b> Pandas, NumPy, Data Preprocessing & Modeling Pipelines
+      </td>
+    </tr>
+    <tr>
+      <td><b>💻 Full-Stack Development</b></td>
+      <td>
+        • <b>Frontend:</b> React, TypeScript, JavaScript (ES6+), HTML5, Tailwind CSS<br/>
+        • <b>Backend & APIs:</b> Node.js, Express, Flask, RESTful APIs, WebSockets<br/>
+        • <b>State & Routing:</b> React Router, Context API, Modular UI Architecture
+      </td>
+    </tr>
+    <tr>
+      <td><b>⚡ Core Languages & DSA</b></td>
+      <td>
+        • <b>Languages:</b> Python, Java, C++, TypeScript, JavaScript, SQL<br/>
+        • <b>Problem Solving:</b> Data Structures, Algorithm Design & Time/Space Complexity Optimization
+      </td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Databases & DevOps</b></td>
+      <td>
+        • <b>Databases:</b> PostgreSQL, MongoDB, Redis, MySQL<br/>
+        • <b>Cloud & Tools:</b> Git, GitHub, Docker, Postman, Vercel
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### 💻 Featured Projects
 
-- **🌐 Personal Portfolio Website** — Interactive developer portfolio built with React and TypeScript, showcasing live projects and articles. [Live Demo](https://vishalsukhwal.vercel.app/)
-- **🧠 Intelligent LLM Chatbot System** — Advanced conversational context engine powered by LangChain, vector embeddings, and modular memory layers.
-- **📈 Real-Time Time Series Forecaster** — Deep learning pipeline using LSTM architecture for predictive financial data trends.
-- **⚡ Full-Stack Scalable Web App** — High-concurrency system built with modern TypeScript frameworks and optimized database queries.
+- **🌐 [Personal Portfolio](https://vishalsukhwal.vercel.app/)** — Modern interactive web platform built with React & TypeScript to demonstrate live projects and tech case studies.
+- **🧠 Intelligent Agentic LLM Engine** — Context-aware conversational architecture integrating LangChain, dynamic vector retrieval, and custom memory retention.
+- **📈 Real-Time Predictive ML Pipeline** — End-to-end deep learning framework utilizing sequence modeling for forecasting continuous time-series metrics.
+- **⚡ High-Concurrency Full-Stack Web App** — Production-ready application built on Node.js/Flask backend and modular TypeScript UI.
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=vishalsukhwall&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
+<br/>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -92,5 +101,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=38bdf8&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
