@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Building+Autonomous+Agents;" />
 
 <p align="center">
+  <a href="https://vishalsukhwal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-667EEA?style=flat-    square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/vishal-sukhwal-89a574378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vishalsukhwal33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/vishalsukhwall"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
