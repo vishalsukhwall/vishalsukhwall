@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D9488&height=110&text=Hi%20there,%20I'm%20Vishal%20Sukhwal%20👋&fontSize=26&fontColor=FFFFFF&fontAlignY=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Vishal%20Sukhwal&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=60&descColor=38bdf8" width="100%" alt="Header" />
 
-<br/>
+  <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Building+Autonomous+Agents;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Agentic+AI+Workflows;Scalable+Full-Stack+Apps;Turning+Models+into+Production;" />
 
-<p align="center">
-  <a href="https://vishalsukhwal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/vishal-sukhwal-89a574378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vishalsukhwal33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/vishalsukhwall"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+  <p align="center">
+    <a href="https://vishalsukhwal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/vishal-sukhwal-89a574378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:vishalsukhwal33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/vishalsukhwall"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
+  </p>
 
 </div>
 
@@ -80,6 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
+<!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalsukhwall/vishalsukhwall/output/github-contribution-grid-snake-dark.svg">
@@ -91,5 +92,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=0D9488&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=vishalsukhwall&color=38bdf8&style=flat-square&label=Profile+Views" />
 </div>
