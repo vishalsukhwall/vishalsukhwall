@@ -19,7 +19,6 @@
 
 ### ⚡ About Me
 
-- 🌐 **Live Portfolio:** [vishalsukhwal.vercel.app](https://vishalsukhwal.vercel.app/)
 - 🔭 **Current Focus:** Agentic AI architectures, LLM orchestration, and high-concurrency full-stack platforms.
 - 🎓 **Education:** Master of Computer Applications (MCA) at GITS, Udaipur.
 - 💡 **Core Philosophy:** Writing scalable, clean code to turn complex machine learning workflows into robust production systems.
