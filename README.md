@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Agentic+AI+Workflows;Scalable+Full-Stack+Apps;Turning+Models+into+Production;" />
 
   <p align="center">
-    <a href="https://vishalsukhwal.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a>
+    <a href="https://vishalsukhwal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/vishal-sukhwal-89a574378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:vishalsukhwal33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/vishalsukhwall"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
