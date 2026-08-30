@@ -17,7 +17,6 @@
 
 ### ⚡ About Me
 
-- 🌐 **Portfolio:** [vishalsukhwal.vercel.app](https://vishalsukhwal.vercel.app/)
 - 🔭 **Working on:** Agentic AI workflows, autonomous systems, and high-performance backend pipelines.
 - 🎓 **Studying:** Master of Computer Applications (MCA) at GITS, Udaipur.
 - 💡 **Philosophy:** Writing clean, scalable code and turning complex ML models into real-world solutions.
