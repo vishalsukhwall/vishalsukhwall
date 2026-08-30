@@ -74,7 +74,7 @@
 
 ### 💻 Featured Projects
 
-- **🌐 [Personal Portfolio Website](https://vishalsukhwal.vercel.app/)** — Modern interactive developer platform showcasing projects, live demos, and technical background.
+
 - **🧠 Intelligent LLM Chatbot System** — Advanced conversational context engine powered by LangChain, vector embeddings, and modular memory layers.
 - **📈 Real-Time Time Series Forecaster** — Deep learning pipeline using LSTM architecture for predictive financial data trends.
 - **⚡ Full-Stack Scalable Web App** — High-concurrency system built with modern TypeScript frameworks and optimized database queries.
