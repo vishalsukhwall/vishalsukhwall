@@ -21,7 +21,11 @@
 
 ---
 
-<p align="center"><i>"Bridging predictive data analytics, machine learning modeling, and robust full-stack systems to build intelligent data-driven products."</i></p>
+### 👨‍💻 Professional Summary
+
+- 🎯 **Domain Expertise:** AI/ML Engineering, Data Science Analytics, and Full-Stack Systems Development.
+- 🎓 **Education:** Master of Computer Applications (MCA) — GITS, Udaipur.
+- 💡 **Core Competency:** Architecting end-to-end machine learning pipelines, building high-performance data analytics dashboards, and scaling production-grade web applications.
 
 ---
 
@@ -33,13 +37,13 @@
     <td align="center" width="20%"><b>50K+</b><br/><sub style="color: #94a3b8;">Datasets & Records Processed</sub></td>
     <td align="center" width="20%"><b>< 120ms</b><br/><sub style="color: #94a3b8;">Full-Stack API Latency</sub></td>
     <td align="center" width="20%"><b>99.9%</b><br/><sub style="color: #94a3b8;">Pipeline Reliability</sub></td>
-    <td align="center" width="20%"><b>End-to-End</b><br/><sub style="color: #94a3b8;">Production Architecture</sub></td>
+    <td align="center" width="20%"><b>Production</b><br/><sub style="color: #94a3b8;">Ready Architecture</sub></td>
   </tr>
 </table>
 
 ---
 
-### 🧬 Advanced Technology Stack
+### 🛠️ Technical Stack & Ecosystem
 
 <table align="center" border="0" cellspacing="0" cellpadding="15">
   <tr>
@@ -75,6 +79,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 💻 Production-Ready Highlights
+
+- **🤖 AI Career Mentor App** — Intelligent career guidance dashboard built with Streamlit and integrated Hugging Face models.
+- **📊 House Price Prediction & SMS Spam Pipeline** — End-to-end data pipelines leveraging Scikit-learn, Naive Bayes, Linear Regression, and Flask APIs.
+- **🌐 Full-Stack Ecosystem (AARAMBHH & Wealthynames)** — Modern reactive interfaces built with React, TypeScript, and MongoDB, fully deployed on Vercel.
 
 ---
 
