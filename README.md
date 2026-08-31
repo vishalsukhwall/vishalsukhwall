@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,40,60,80&height=180&section=header" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=VISHAL%20SUKHWAL&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20SYSTEMS%20ARCHITECT&descSize=15&descAlignY=60&descColor=38bdf8" width="100%" alt="Header" />
 
-  <h1 style="font-weight: 800; letter-spacing: 1px; margin-top: -30px;">VISHAL SUKHWAL</h1>
+  <br/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=550&lines=Crafting+Scalable+AI+Solutions+%26+Production+Systems;Architecting+Autonomous+Agentic+Workflows;Building+High-Concurrency+Distributed+APIs;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Crafting+Scalable+AI+Solutions+%26+Production+Systems;Architecting+Autonomous+Agentic+Workflows;Building+High-Concurrency+Distributed+APIs;" />
   </p>
 
   <br/>
