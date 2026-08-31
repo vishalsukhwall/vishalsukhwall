@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=VISHAL%20SUKHWAL&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=16&descAlignY=60&descColor=38bdf8" width="100%" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Agentic+AI+Workflows;Scalable+Full-Stack+Apps;Turning+Models+into+Production;" />
 
   <br/>
 
