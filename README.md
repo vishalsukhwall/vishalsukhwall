@@ -93,7 +93,7 @@
 ### 📈 GitHub Analytics & Ecosystem
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalsukhwall&theme=tokyonight&hide_border=true&fire=orange&background=1e1b2e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalsukhwall&theme=tokyonight&hide_border=true&fire=orange&background=1e1b2e&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </div>
 
 <br/>
