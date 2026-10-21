@@ -92,14 +92,14 @@
 ### 📈 GitHub Analytics & Ecosystem
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalsukhwall&theme=tokyonight&hide_border=true&fire=orange&background=1e1b2e&timezone=Asia/Kolkata" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalsukhwall&theme=tokyonight&hide_border=true&fire=orange&background=1e1b2e&timezone=Asia/Kolkata&v=109" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=1e1b2e" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=1e1b2e" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalsukhwall&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=1e1b2e&v=109" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsukhwall&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=1e1b2e&v=109" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
