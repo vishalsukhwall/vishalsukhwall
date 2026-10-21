@@ -1,7 +1,6 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,10,20,40&height=180&section=header&text=VISHAL%20SUKHWAL&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20DATA%20SCIENCE%20ANALYST%20%7C%20FULL-STACK&descSize=13&descAlignY=60&descColor=f472b6" width="100%" alt="Header" />
-
   <br/>
 
   <p align="center">
